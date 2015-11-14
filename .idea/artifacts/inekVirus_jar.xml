@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="inekVirus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/inekVirus_jar</output-path>
+    <root id="archive" name="inekVirus.jar">
+      <element id="module-output" name="inekVirus" />
+    </root>
+  </artifact>
+</component>
